@@ -1,0 +1,98 @@
+.cau2{
+    text-align: center;
+    background-color: rgb(255, 208, 108);
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin: auto;
+}
+.cau3{
+    text-align: justify;
+    background-color: white;
+    border: 1px solid;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+}   
+.cau4{
+    background-color: rgb(255, 208, 108);
+    width: 800px;
+    height: 450px;
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin: auto;
+}
+.d1{
+    width: 33%;
+    text-align: left;
+    float: left;
+}
+.d2{
+    padding-top: 20%;
+    padding-left: 33%;
+    width: 34%;
+    text-align: center;
+}
+.d3{
+    width: 33%;
+    text-align: right;
+    float: right;
+}
+.list1{
+    background-color:white;
+    border: 1px solid;
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+    list-style-type: upper-roman;
+}
+.l{
+    list-style-type: lower-roman;
+}
+.list2{
+    background-color: rgb(255, 208, 108);
+    border: 1px solid;
+    width: 250px;
+    height: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+}
+
+.School{
+    list-style-type: upper-roman;
+}
+
+.Name{
+    list-style-type: upper-latin;
+}
+.N{
+    list-style-type: decimal;
+}
+.vv{
+    list-style-type: square;
+}
+.menu{
+    background-color:white;
+    border: 1px solid;
+    width: 370px;
+    height: 600px;
+    padding: 5px;
+    margin: auto;
+}
+.table{
+    border: 2px solid;
+}
